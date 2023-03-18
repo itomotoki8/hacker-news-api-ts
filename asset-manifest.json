@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//:itomotoki8.github.io/hacker-news-api-ts/static/css/main.98ddcbc3.css",
+    "main.js": "/http//:itomotoki8.github.io/hacker-news-api-ts/static/js/main.03bad58e.js",
+    "index.html": "/http//:itomotoki8.github.io/hacker-news-api-ts/index.html",
+    "main.98ddcbc3.css.map": "/http//:itomotoki8.github.io/hacker-news-api-ts/static/css/main.98ddcbc3.css.map",
+    "main.03bad58e.js.map": "/http//:itomotoki8.github.io/hacker-news-api-ts/static/js/main.03bad58e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98ddcbc3.css",
+    "static/js/main.03bad58e.js"
+  ]
+}
